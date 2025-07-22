@@ -1,1 +1,1 @@
-FastAPI demo project
+FastAPI demo
